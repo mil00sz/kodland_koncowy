@@ -1,1 +1,1 @@
-# Jest to informavyjna strona internetowa z której można się troche dowiedzieć trochę o globalnym ociepleniu. Na stronie znajduje się wyjaśnienie czym jest globalne ocieplenie artykuły odnośnie tego oraz sposoby zapobiegania temu problemowi
+# Jest to informacyjna strona internetowa z której można się troche dowiedzieć trochę o globalnym ociepleniu. Na stronie znajduje się wyjaśnienie czym jest globalne ocieplenie artykuły odnośnie tego oraz sposoby zapobiegania temu problemowi
